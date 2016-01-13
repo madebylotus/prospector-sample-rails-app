@@ -45,3 +45,4 @@ group :development do
   gem 'spring'
 end
 
+gem 'prospector', '~> 0.4'
